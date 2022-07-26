@@ -1,7 +1,7 @@
 +++
 title = "About"
-description = "C-MOOR portfolio site"
+description = "About Shiv Mehrotra-Varma"
 date = "2021-05-24"
 +++
 
-This is a "hello world" example portfolio website for [C-MOOR](https://github.com/C-MOOR). The theme was forked from [lxndrblz/anatole](https://github.com/lxndrblz/anatole).  Theme and example content were modified by [Katherine Cox](https://github.com/KatherineCox) for use by C-MOOR learners.
+I am a student interested in data science and genomics research interested in working with the MDH1 gene. I completed a project involving the arginine methylation of MDH1 by CARM1 in mouse gastrulation in a Clovis Community College class taught by Dr. Alcazar. I am fascinated with computational/molecular biology.
