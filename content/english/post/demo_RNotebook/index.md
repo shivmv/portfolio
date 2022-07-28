@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-A research poster expressing my findings and a thorough analysis of what I discovered is accessible [Here](SU22 PosterPresentations.com-36x48-Template-Forrest.pptx (2) (1).pdf)
+A research poster expressing my findings and a thorough analysis of what I discovered is accessible [Here](Poster.pdf).
 
 [Here](c-moor_ccc_su22_mouse_gastrulation_part2.nb.html) is one of the numerous R Notebooks created in R Studio throughout my research! This R Notebook specifically involves collecting data regarding the coexpression of two genes, along with many other things.
 
