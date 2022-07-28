@@ -16,5 +16,7 @@ Project Abstract:
 Studies have shown that the arginine methylation of MDH1 by CARM1 suppresses the cell proliferation of pancreatic cancer. MDH1, a gene crucial to metabolism and The Citric Acid Cycle, in part catalyzes an unconventional metabolic pathway that pancreatic cancer cells rely on for glutamine production, which is needed for cell proliferation. The arginine methylation of MDH1 by CARM1 inhibits MDH1 and leads to glutamine depletion, thus lowering the rate of pancreatic cancer cell proliferation. This study delves to determine whether or not arginine methylation of MDH1 by CARM1, leading to glutamine depletion and suppressed cell proliferation, occurs as early as gastrulation. This was done by examining the gene expression of several genes of interest across gastrulation to find relationships between them. The expression of genes correlated to MDH1 inhibition, suppressed cell proliferation, and the arginine methylation of MDH1 were compared with the expression of MDH1 using violin plots and 2D scatter plots created with R. Certain relationships between the genes of interest and MDH1 would indicate that the arginine methylation of MDH1 is occurring as early as 
 gastrulation. This discovery could prove to be invaluable in the fight to treating pancreatic cancer patients, especially so in rare embryonic cases, and preventing future incidences of cancer in high-risk patients.
 
+![](DNA.jpg)
+
 
 
