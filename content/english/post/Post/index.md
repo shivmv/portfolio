@@ -1,4 +1,4 @@
-**+++
++++
 author = "Shiv Mehrotra-Varma"
 title = "Project: Longitudinal Prediction of the Need for Invasive Mechanical Ventilation in Hospitalized Patients with COVID-19 Infection Using Predictive Modeling"
 date = "2022-06-27"
